@@ -8,11 +8,11 @@ When creating a management space in the app, upon registering cat information, w
 
 ![image](https://github.com/matchlessNostril/catFeeder/assets/81696717/1cae15de-b911-4d18-bd37-1af89ad017de)
 
-### 📹 Demonstration Video
+## 📹 Demonstration Video
 <a href="https://youtu.be/w5-AoBGKgJU?si=pbF0UQpNJNiQSJvY"> <img width="800" alt="thumbnail" src="https://github.com/matchlessNostril/catFeeder/assets/144131324/774b75fc-e567-4128-bcbb-a3ca1e102379"> </a>
 
 
-### 🙇 Team members (Hanyang Univ)
+## 🙇 Team members (Hanyang Univ)
 
 |Name|Part|Dept|Contact|
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ When creating a management space in the app, upon registering cat information, w
 |Jukyung Ahn|BackEnd|Information Systems|hyoju8618@naver.com|
 |JunGgi Hong|AI|Information Systems|sentorino@hanyang.ac.kr|
 
-### 🕐 Development Period
+## 🕐 Development Period
 - `23.10-23.11`
 
-### 📚 Tech Stack
+## 📚 Tech Stack
 
 <div>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -32,23 +32,25 @@ When creating a management space in the app, upon registering cat information, w
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </div>
 
-### 📑 Document & AI Blog
+## 📑 Document & AI Blog
 [Document](https://github.com/matchlessNostril/MulMeokNyang/blob/main/Documentation/NyangPort_Documentation.pdf)
+
+
 [AI Blog](https://bit.ly/3tfp9yn)
 
 
 
-### 📌 Application Features
+## 📌 Application Features
 
 
-#### 1️⃣ Start
+### 1️⃣ Start
 
 <img src="https://github.com/matchlessNostril/catFeeder/assets/77608505/4e534fdc-3faa-4ba5-b64a-d3a9c1db6975" alt="1_Start (1)" width="200"/>
 
 - Click the "Sign up" button to proceed with the registration via email.
 
 
-#### 2️⃣ SignUp
+### 2️⃣ SignUp
 
 <img src="https://github.com/matchlessNostril/catFeeder/assets/77608505/c94fb203-614e-4649-a1dd-d920c5a87bc0" alt="2_SignUp" width="600"/>
 
@@ -58,7 +60,7 @@ When creating a management space in the app, upon registering cat information, w
 - Enter the 6-digit authentication code and press the complete button to finish SignUp.
 
 
-#### 3️⃣ Login / Find Email / Find Password
+### 3️⃣ Login / Find Email / Find Password
 
 <img src="https://github.com/matchlessNostril/catFeeder/assets/144131324/727ba433-407f-4a3a-8608-bc580c180f85" alt="3_Login" width="200"/>
 
@@ -78,14 +80,14 @@ By entering only your name and phone number, you can find your email.
 - If you have forgotten your password, click on the "Forgot Password" button to proceed with SMS verification. After that, your password will be sent to the corresponding email.
 
 
-#### 4️⃣ User Profile Registration
+### 4️⃣ User Profile Registration
 
 <img src="https://github.com/matchlessNostril/catFeeder/assets/144131324/393b68f0-910a-4766-b240-e968a076c87a" alt="6_UserProfile" width="200"/>
 
 - Type a profile picture (optional), nickname, and self-introduction (optional).
 
 
-#### 5️⃣ Go To Management Space
+### 5️⃣ Go To Management Space
 
 <img src="https://github.com/matchlessNostril/catFeeder/assets/144131324/74ab85a0-d30f-4b60-ba8b-9520659d27d9" alt="7_CreateSpace" width="600"/>
 
@@ -99,7 +101,7 @@ Proceed with the water supply registration to work with the management space.
 - Once additional co-manager registration is confirmed, go to the main screen immediately.
 
 
-#### 6️⃣ Cat Profile Registration
+### 6️⃣ Cat Profile Registration
 
 <img src="https://github.com/matchlessNostril/catFeeder/assets/144131324/8ef7cdf1-ed7d-4da3-b8d8-28df3245bcff" alt="9_CatProfile" width="200"/>
 
@@ -121,7 +123,7 @@ Proceed with the water supply registration to work with the management space.
 - If you want to register a new cat, click the additional registration button. Or If you want to go straight to the management space, click tge complete complete registration.
 
 
-#### 7️⃣ Main
+### 7️⃣ Main
 <img src="https://github.com/matchlessNostril/catFeeder/assets/144131324/924973b4-fe64-4168-9645-c16abefc4235" alt="13_Main" width="400"/>
 
 - Select a cat profile at the top to see the main information.
@@ -129,7 +131,7 @@ Proceed with the water supply registration to work with the management space.
 - If you press the Statistics button, navigate to the period-based hydration statistics screen for the currently selected cat.
 
 
-#### 8️⃣ Hydration Statistics
+### 8️⃣ Hydration Statistics
 <img src="https://github.com/matchlessNostril/catFeeder/assets/77608505/6decf4fd-1e79-49c2-9af5-cff86f6dc633" alt="14_StatisticsGraph" width="600"/>
 
 <img src="https://github.com/matchlessNostril/catFeeder/assets/77608505/ba3b9b83-9917-4e9e-9ca2-e32d9047c763" alt="15_StatisticsCalendar" width="600"/>
@@ -140,7 +142,7 @@ You can specify a specific period by clicking the calendar icon.
 - Select a cat profile at the top, You can see another cat's hydration statistic.
 
 
-#### 9️⃣ Drawer
+### 9️⃣ Drawer
 <img src="https://github.com/matchlessNostril/catFeeder/assets/77608505/86bfba72-cec7-4967-982e-6d6988f12f8e" alt="16_Drawer" width="200"/>
 
 - If you press the menu icon on the top right, the drawer will bring up from the right side.
@@ -152,7 +154,7 @@ The features of the drawer are following below.
 - Log out
 
 
-#### 🔟 Co-manager
+### 🔟 Co-manager
 <img src="https://github.com/matchlessNostril/catFeeder/assets/77608505/09f23afd-1830-4ce7-a1e4-49772ccdc0da" alt="17_CoManager" width="400"/>
 
 - You can see a list of other users who have been added as co-manager of the current space.
