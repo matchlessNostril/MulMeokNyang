@@ -28,7 +28,7 @@ When creating a management space in the app, upon registering cat information, w
 
 ## 📚 Tech Stack
 - FrontEnd
-<div style={{ display: "inline-block" }}>
+<div style={ display: "inline-block" }>
 	<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/StyleSheet-DB7093?style=flat&logo=styled-components&logoColor=white" />
 	<img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white" />
