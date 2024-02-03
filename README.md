@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=a3a9d1&height=150&section=header&text=MulMeokNyang&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
-![MulMeokNyang_slogan](https://github.com/matchlessNostril/MulMeokNyang/assets/144131324/1608dddc-233b-4c89-98a0-531360a38873)
+![MulMeokNyang_slogan](https://github.com/matchlessNostril/MulMeokNyang/assets/144131324/38e99669-2dd5-4a7f-bcab-5b3e0ea29d30)
 
 ## 💻 Introduction
 
