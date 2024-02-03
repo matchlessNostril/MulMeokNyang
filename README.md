@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=d1b1a3&height=150&section=header&text=MulMeokNyang&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=a3a9d1&height=150&section=header&text=MulMeokNyang&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 
 ## 💻 Introduction
 
@@ -15,7 +15,7 @@ When creating a management space in the app, upon registering cat information, w
 ## 🙇 Team members (Hanyang Univ)
 
 |Name|Part|Dept|Contact|
-|---|---|---|---|---|
+|---|---|---|---|
 |ChanSol Choi|FrontEnd|Information Systems|hjk9216@hanyang.ac.kr|
 |YunSun Lee|BackEnd|Film and Theatre|justina7182@gmail.com|
 |Jukyung Ahn|BackEnd|Information Systems|hyoju8618@naver.com|
@@ -29,9 +29,22 @@ When creating a management space in the app, upon registering cat information, w
 ## 📚 Tech Stack
 
 <div>
+	<b>FrontEnd</b>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+  	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+</div>
+<div>
+	<b>BackEnd</b>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+</div>
+<div>
+	<b>AI</b>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </div>
 
 ## 📑 Document & AI Blog
@@ -41,6 +54,8 @@ When creating a management space in the app, upon registering cat information, w
 - [AI Blog](https://bit.ly/3tfp9yn)
 
 
+## ✔️ Available Device
+- `Mobile (iOS/Android)`
 
 ## 📌 Application Features
 
