@@ -36,15 +36,18 @@ When creating a management space in the app, upon registering cat information, w
 </div>
 <div>
 	<b>BackEnd </b>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-  	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+  	<img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat&logo=AWS Lambda&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS RDS-569A31?style=flat&logo=AWS RDS&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS S3-527FFF?style=flat&logo=AWS S3&logoColor=white" />
 </div>
 <div>
 	<b>AI </b>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-  	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" />
+	<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
+  	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
+	<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
 </div>
 
 ## 📑 Document & AI Blog
