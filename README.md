@@ -103,7 +103,7 @@ By entering only your name and phone number, you can find your email.
 
 <img src="https://github.com/matchlessNostril/catFeeder/assets/144131324/393b68f0-910a-4766-b240-e968a076c87a" alt="6_UserProfile" width="200"/>
 
-- Type a profile picture (optional), nickname, and self-introduction (optional).
+- Enter a profile picture (optional), nickname, and self-introduction (optional).
 
 
 ### 5️⃣ Go To Management Space
@@ -113,11 +113,8 @@ By entering only your name and phone number, you can find your email.
 - If you want to create a space to manage your pet cats,
 Press the 'Create your own management space' button,
 Proceed with the water supply registration to work with the management space.
-
-<img src="https://github.com/matchlessNostril/catFeeder/assets/144131324/b4fe002b-e69b-4bdd-9d4a-c3b90b773659" alt="8_WaitCoManaeger" width="200"/>
-
 - If you want to be a co-manager in an existing space, click 'Wait for co-manager registration'.
-- Once additional co-manager registration is confirmed, go to the main screen immediately.
+- Once additional co-manager registration is confirmed, it'll be navigated to the main screen immediately.
 
 
 ### 6️⃣ Cat Profile Registration
@@ -139,7 +136,7 @@ Proceed with the water supply registration to work with the management space.
 <img src="https://github.com/matchlessNostril/catFeeder/assets/144131324/63203aa2-017e-45fc-90ca-84b4f1fe4cfa" alt="12_CatHydration" width="200"/>
 
 - Set the daily goal hydaration.
-- If you want to register a new cat, click the additional registration button. Or If you want to go straight to the management space, click tge complete complete registration.
+- If you want to register a new cat, click the additional registration button. Or If you want to go straight to the management space, click the complete complete registration.
 
 
 ### 7️⃣ Main
@@ -147,7 +144,7 @@ Proceed with the water supply registration to work with the management space.
 
 - Select a cat profile at the top to see the main information.
 - You can see the daily goal hydration guage, with an evaluation message corresponding to the value.
-- If you press the Statistics button, navigate to the period-based hydration statistics screen for the currently selected cat.
+- If you press the Statistics button, it'll be navigated to the period-based hydration statistics screen for the currently selected cat.
 
 
 ### 8️⃣ Hydration Statistics
