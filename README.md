@@ -16,9 +16,9 @@ When creating a management space in the app, upon registering cat information, w
 
 |Name|Part|Dept|Contact|
 |---|---|---|---|
-|ChanSol Choi|FrontEnd|Information Systems|hjk9216@hanyang.ac.kr|
-|YunSun Lee|BackEnd|Film and Theatre|justina7182@gmail.com|
-|Jukyung Ahn|BackEnd|Information Systems|hyoju8618@naver.com|
+|ChanSol Choi|Frontend|Information Systems|hjk9216@hanyang.ac.kr|
+|YunSun Lee|Backend|Film and Theatre|justina7182@gmail.com|
+|Jukyung Ahn|Backend|Information Systems|hyoju8618@naver.com|
 |JunGgi Hong|AI|Information Systems|sentorino@hanyang.ac.kr|
 
 
@@ -52,6 +52,7 @@ When creating a management space in the app, upon registering cat information, w
 ## 📑 Document & AI Blog
 - [Document](https://github.com/matchlessNostril/MulMeokNyang/blob/main/Documentation/NyangPort_Documentation.pdf)
 
+- [Backend API Docs](https://www.notion.so/sorukun/MulMeokNyang-API-fef2fa29b47e4c978d3d57f32a4b1056)
 
 - [AI Blog](https://bit.ly/3tfp9yn)
 
