@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=d1b1a3&height=150&section=header&text=MulMeokNyang&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 
-## Introduction
+## 💻 Introduction
 
 Our app is designed to manage the hydration of cats kept at home. The app connects to a smart water dispenser device equipped with AI that distinguishes each cat. Through the built-in camera of the dispenser, it updates the daily hydration of each cat in real-time. Users can view today's hydration, evaluations, and previous hydration statistics in the app. Additionally, it offers a co-management feature, allowing family members to collectively oversee the cats.
 
@@ -21,8 +21,10 @@ When creating a management space in the app, upon registering cat information, w
 |Jukyung Ahn|BackEnd|Information Systems|hyoju8618@naver.com|
 |JunGgi Hong|AI|Information Systems|sentorino@hanyang.ac.kr|
 
+
 ## 🕐 Development Period
 - `23.10-23.11`
+
 
 ## 📚 Tech Stack
 
@@ -33,10 +35,10 @@ When creating a management space in the app, upon registering cat information, w
 </div>
 
 ## 📑 Document & AI Blog
-[Document](https://github.com/matchlessNostril/MulMeokNyang/blob/main/Documentation/NyangPort_Documentation.pdf)
+- [Document](https://github.com/matchlessNostril/MulMeokNyang/blob/main/Documentation/NyangPort_Documentation.pdf)
 
 
-[AI Blog](https://bit.ly/3tfp9yn)
+- [AI Blog](https://bit.ly/3tfp9yn)
 
 
 
