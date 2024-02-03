@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=a3a9d1&height=150&section=header&text=MulMeokNyang&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=698dd1&height=150&section=header&text=MulMeokNyang&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 
 ## 💻 Introduction
 
