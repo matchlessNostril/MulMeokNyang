@@ -47,7 +47,7 @@ When creating a management space in the app, upon registering cat information, w
 	<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" />
 	<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
   	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
-	<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+	<img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
 </div>
 
 ## 📑 Document & AI Blog
