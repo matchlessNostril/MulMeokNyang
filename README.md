@@ -23,7 +23,7 @@ While the demo video is in Korean, English-version screenshots are available in 
 
 
 ## 🕐 Development Period
-- `23.10-23.12`
+- `23.10 - 23.12`
 
 
 ## 📚 Tech Stack
